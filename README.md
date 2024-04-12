@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benvdm03
 - 👀 I’m interested in ... fun side projects / data analysis
 - 🌱 I’m currently learning ... cybersecurity / cloud operations
--- ⚡ Fun fact: ...Triple Citizen
+- ⚡ Fun fact: ...Triple Citizen
 
 
 ![Friends](https://drive.google.com/thumbnail?id=14y-j9hI_v05MPj8c3WR5eQLTCliAZoC-)
