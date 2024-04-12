@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benvdm03
+- 👋 Hi, I’m @benvdm03 (Ben van der Merwe) 
 - 👀 I’m interested in ... fun side projects / data analysis
 - 🌱 I’m currently learning ... cybersecurity / cloud operations
 - ⚡ Fun fact: ...Triple Citizen
