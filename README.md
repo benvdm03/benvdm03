@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning ... cybersecurity / cloud operations
 - ⚡ Fun fact: ...Triple Citizen
 
+<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihZYc2ezmbAmVSVATAFULyQxP07UjNw-1EkDUU9EMoM_9s0PpPx9kqQEY2Mj8S2ItVsoum21475pcWam9IHRdpAiOZOsgi6hwuI=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZYc2ezmbAmVSVATAFULyQxP07UjNw-1EkDUU9EMoM_9s0PpPx9kqQEY2Mj8S2ItVsoum21475pcWam9IHRdpAiOZOsgi6hwuI=s1600-rw-v1" /> </a>
 
-![Friends](https://drive.google.com/thumbnail?id=14y-j9hI_v05MPj8c3WR5eQLTCliAZoC-)
 
-<!---
-benvdm03/benvdm03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihYu2NtuiQRFu_SAOtkCJEPZgcTPHchw2Q69Wc4_IDgKOxDNQh0_k5ei2raokSOZFP0RVK7kFkkAHk2-zzfj5X2XyeiTp8ci=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYu2NtuiQRFu_SAOtkCJEPZgcTPHchw2Q69Wc4_IDgKOxDNQh0_k5ei2raokSOZFP0RVK7kFkkAHk2-zzfj5X2XyeiTp8ci=s1600-rw-v1" /> </a>
+
