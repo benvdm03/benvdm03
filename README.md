@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benvdm03 (Ben van der Merwe) 
-- 👀 I’m interested in ... fun side projects / data analysis
-- 🌱 I’m currently learning ... cybersecurity / cloud operations
-- ⚡ Fun fact: ...Triple Citizen
+- 👀 I’m interested in interesting side projects & data analysis
+- 🌱 I’m currently learning Automation, Cybersecurity, and Cloud Operations
+- ⚡ Fun fact: Triple Citizen
 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihZYc2ezmbAmVSVATAFULyQxP07UjNw-1EkDUU9EMoM_9s0PpPx9kqQEY2Mj8S2ItVsoum21475pcWam9IHRdpAiOZOsgi6hwuI=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZYc2ezmbAmVSVATAFULyQxP07UjNw-1EkDUU9EMoM_9s0PpPx9kqQEY2Mj8S2ItVsoum21475pcWam9IHRdpAiOZOsgi6hwuI=s1600-rw-v1" /> </a>
 
